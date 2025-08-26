@@ -1,5 +1,5 @@
 <h3 align="center">👨‍💻 Information Engineering Tecnologest | Data Scientist | Full Stack Developer | Open Source Enthusiast 👩‍💻 🚀 Passionate about building innovative and scalable software solutions. 💡 Experienced in Android development, including frontend and backend technologies.</h3>
-<img align="right" alt="coding" width="1600" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a39327728e">
+ 
 
 
 <h3 align="left">Connect with me:</h3>
