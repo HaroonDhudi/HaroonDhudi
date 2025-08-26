@@ -1,4 +1,4 @@
-<h3 align="center">👨‍💻 Information Engineering Tecnologest | Data Scientist | Full Stack Developer | Open Source Enthusiast 👩‍💻 🚀 Passionate about building innovative and scalable software solutions. 💡 Experienced in Android development, including frontend and backend technologies.</h3>
+<h3 align="center">👨‍💻 Information Engineering Technologist | Data Scientist | Full Stack Developer | Open Source Enthusiast 👩‍💻 🚀 Passionate about building innovative and scalable software solutions. 💡 Experienced in Android development, including frontend and backend technologies.</h3>
  
 
 
