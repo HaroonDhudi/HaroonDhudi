@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haroon Dhudi</h1>
 <h3 align="center">👨‍💻 Computer Science | Full Stack Developer | Open Source Enthusiast 👩‍💻 Passionate about building innovative and scalable software solutions. 💡 Experienced in Android development, including frontend and backend technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haroondhudi&label=Profile%20views&color=0e75b6&style=flat" alt="haroondhudi" /> </p>
-
 - 🌱 I’m currently learning **Frameworks, cources etc.**
 
 <h3 align="left">Connect with me:</h3>
